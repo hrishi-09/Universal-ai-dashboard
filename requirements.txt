@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+pillow
+python-docx
+opencv-python-headless
+pypdf
+pdf2docx
+reportlab
+transformers
+torch
+openpyxl
