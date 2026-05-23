@@ -21,9 +21,3 @@ An advanced AI-powered dashboard built using Streamlit.
 - Pandas
 - OpenCV
 - Transformers
-
-## Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
